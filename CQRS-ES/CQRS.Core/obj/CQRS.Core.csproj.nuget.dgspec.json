@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 2/Basic Project Setup/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {}
+    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {}
   },
   "projects": {
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 2/Basic Project Setup/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 2/Basic Project Setup/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 2/Basic Project Setup/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
         "packagesPath": "/home/sean/.nuget/packages/",
-        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 2/Basic Project Setup/CQRS-ES/CQRS.Core/obj/",
+        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sean/.nuget/NuGet/NuGet.Config"
@@ -40,7 +40,7 @@
           "dependencies": {
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.16.1, )"
+              "version": "[2.14.1, )"
             }
           },
           "imports": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
