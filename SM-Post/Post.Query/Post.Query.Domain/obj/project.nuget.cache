@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OfVUYaveTA0QisQI+wBydPDHgeVYDc7YCh5f1eAVQN7yEbJNZKXlfTwAqLqfXJI0YkYzVVFgRPvw4D5CfHS2zw==",
+  "dgSpecHash": "gighHNBDQBDOZNP/bKo2vDAixHCNxeeSTgwkfLIqEHSFSWa/NXVaOYYnPWJOZCEEL1M6RwP1Tey8IPypx8wKMw==",
   "success": true,
-  "projectFilePath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
+  "projectFilePath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

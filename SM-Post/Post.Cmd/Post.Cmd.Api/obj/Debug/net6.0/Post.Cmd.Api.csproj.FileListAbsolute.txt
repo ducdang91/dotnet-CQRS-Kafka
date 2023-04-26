@@ -79,6 +79,9 @@ C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Ap
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.csproj.CoreCompileInputs.cache
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\refint\Post.Cmd.Api.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.pdb
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\appsettings.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Api.exe
@@ -146,8 +149,5 @@ C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Ap
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\scopedcss\bundle\Post.Cmd.Api.styles.css
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.csproj.CopyComplete
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.dll
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\refint\Post.Cmd.Api.dll
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.pdb
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.genruntimeconfig.cache
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\ref\Post.Cmd.Api.dll

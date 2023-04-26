@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj": {}
+    "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {}
   },
   "projects": {
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
+    "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj",
-        "packagesPath": "/home/sean/.nuget/packages/",
-        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/obj/",
+        "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\duc.dangtrong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sean/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\duc.dangtrong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,34 +61,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj": {
+    "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj",
+        "projectUniqueName": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
         "projectName": "Post.Common",
-        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj",
-        "packagesPath": "/home/sean/.nuget/packages/",
-        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/obj/",
+        "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "packagesPath": "C:\\Users\\duc.dangtrong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sean/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\duc.dangtrong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               }
             }
           }
@@ -105,7 +110,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -114,40 +120,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj": {
+    "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj",
+        "projectUniqueName": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
         "projectName": "Post.Query.Api",
-        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj",
-        "packagesPath": "/home/sean/.nuget/packages/",
-        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Api/obj/",
+        "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api.csproj",
+        "packagesPath": "C:\\Users\\duc.dangtrong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sean/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\duc.dangtrong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
               },
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj"
               }
             }
           }
@@ -173,7 +181,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -185,26 +194,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj": {
+    "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
         "projectName": "Post.Query.Domain",
-        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj",
-        "packagesPath": "/home/sean/.nuget/packages/",
-        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/obj/",
+        "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+        "packagesPath": "C:\\Users\\duc.dangtrong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sean/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\duc.dangtrong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -228,7 +239,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -237,40 +249,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj": {
+    "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
         "projectName": "Post.Query.Infrastructure",
-        "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj",
-        "packagesPath": "/home/sean/.nuget/packages/",
-        "outputPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/",
+        "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\duc.dangtrong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sean/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\duc.dangtrong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Common/Post.Common.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Common\\Post.Common.csproj"
               },
-              "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj": {
-                "projectPath": "/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 4/CommandDispatcher/Code/SM-Post/Post.Query/Post.Query.Domain/Post.Query.Domain.csproj"
+              "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+                "projectPath": "C:\\Users\\duc.dangtrong\\source\\repos\\CQRS_Kafka\\Code\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj"
               }
             }
           }
@@ -304,7 +318,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -313,7 +328,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
