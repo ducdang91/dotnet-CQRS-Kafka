@@ -1,3 +1,4 @@
+== Basic Project Setup
 cd CQRS-ES
 dotnet new classlib -o CQRS.Core
 cd SM-Post
