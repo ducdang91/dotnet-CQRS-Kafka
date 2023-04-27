@@ -17,9 +17,25 @@
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/ref/Post.Query.Infrastructure.dll
 /home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.pdb
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.dll
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\refint\Post.Query.Infrastructure.dll
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Infrastructure.deps.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Infrastructure.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/ref/Post.Query.Infrastructure.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Infrastructure.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Common.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Domain.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Query.Domain.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/Post.Common.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/bin/Debug/net6.0/CQRS.Core.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.csproj.AssemblyReference.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.AssemblyInfoInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.AssemblyInfo.cs
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.csproj.CopyComplete
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/ref/Post.Query.Infrastructure.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Infrastructure/obj/Debug/net6.0/Post.Query.Infrastructure.pdb
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.deps.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.pdb
@@ -35,4 +51,7 @@ C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Quer
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.AssemblyInfo.cs
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.csproj.CopyComplete
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\refint\Post.Query.Infrastructure.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.pdb
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net6.0\ref\Post.Query.Infrastructure.dll
