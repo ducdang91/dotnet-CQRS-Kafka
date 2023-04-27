@@ -9,7 +9,7 @@ Action<DbContextOptionsBuilder> configureDbContext = o => o.UseLazyLoadingProxie
 builder.Services.AddDbContext<DatabaseContext>(configureDbContext);
 builder.Services.AddSingleton<DatabaseContextFactory>(new DatabaseContextFactory(configureDbContext));
 
-// Create database and tables from code
+// create database and tables
 var dataContext = builder.Services.BuildServiceProvider().GetRequiredService<DatabaseContext>();
 dataContext.Database.EnsureCreated();
 
