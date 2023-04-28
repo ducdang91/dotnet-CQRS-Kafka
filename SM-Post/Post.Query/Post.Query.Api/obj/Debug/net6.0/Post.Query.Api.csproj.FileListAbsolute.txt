@@ -213,13 +213,6 @@
 /media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/ref/Post.Query.Api.dll
 /media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.pdb
 /media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.genruntimeconfig.cache
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.json
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.exe
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.deps.json
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.runtimeconfig.json
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.dll
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.pdb
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Confluent.Kafka.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\DnsClient.dll
@@ -320,9 +313,16 @@ C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Quer
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\scopedcss\bundle\Post.Query.Api.styles.css
-C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.csproj.CopyComplete
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\refint\Post.Query.Api.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.pdb
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.exe
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.deps.json
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.runtimeconfig.json
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.pdb
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.csproj.CopyComplete
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.genruntimeconfig.cache
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net6.0\ref\Post.Query.Api.dll

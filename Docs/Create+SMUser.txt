@@ -17,5 +17,3 @@ WHERE name = 'SMUser')
 BEGIN
 	EXEC sp_adduser 'SMUser', 'SMUser', 'db_owner';
 END
-
-"SqlServer": "Server=localhost; Database=SocialMedia; Trusted_Connection=true; TrustServerCertificate=true;"

@@ -41,3 +41,6 @@ dotnet add Post.Query/Post.Query.Domain/Post.Query.Domain.csproj reference ../CQ
 dotnet add Post.Query/Post.Query.Domain/Post.Query.Domain.csproj reference Post.Common/Post.Common.csproj
 dotnet add Post.Query/Post.Query.Infrastructure./Post.Query.Infrastructure.csproj reference ../CQRS-ES/CQRS.Core/CQRS.Core.csproj
 dotnet add Post.Query/Post.Query.Infrastructure./Post.Query.Infrastructure.csproj reference Post.Query/Post.Query.Domain/Post.Query.Domain.csproj
+
+SM-Post\Post.Query\Post.Query.Api\appsettings.json
+"SqlServer": "Server=localhost; Database=SocialMedia; Trusted_Connection=true; TrustServerCertificate=true;"
