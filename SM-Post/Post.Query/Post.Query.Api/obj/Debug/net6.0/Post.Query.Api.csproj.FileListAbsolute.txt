@@ -214,6 +214,7 @@
 /media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.pdb
 /media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Query/Post.Query.Api/obj/Debug/net6.0/Post.Query.Api.genruntimeconfig.cache
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.Development.PostgreSQL.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\appsettings.json
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.exe
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Api.deps.json
@@ -242,6 +243,8 @@ C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Quer
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\MongoDB.Driver.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\SharpCompress.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\duc.dangtrong\source\repos\CQRS_Kafka\Code\SM-Post\Post.Query\Post.Query.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
